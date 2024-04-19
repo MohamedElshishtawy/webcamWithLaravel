@@ -1,0 +1,20 @@
+body{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+
+}
+.container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+#my_camera{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
